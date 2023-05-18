@@ -1,0 +1,1 @@
+Since the data used in this study include naturalistic speech samples that can be easily identified, the audio recordings will not be made public to protect the subjects' privacy. Some of the structured data after desensitization are available upon request from the corresponding author.
