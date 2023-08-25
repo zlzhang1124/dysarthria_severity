@@ -1,4 +1,4 @@
-## This is the source code for the article ''***AI-powered clinical decision support system for dysarthria severity assessment***''.
+## This is the source code for the article ''***Artificial Intelligence-Powered Acoustic Analysis System for Dysarthria Severity Assessment***''.
 
 Since the data used in this study include naturalistic speech samples that can be easily identified, the audio recordings will not be made public to protect the subjects' privacy. Some of the structured data after desensitization are available upon request from the corresponding author.
 
@@ -6,4 +6,4 @@ Since the data used in this study include naturalistic speech samples that can b
 
 If you use the code in your research, we would appreciate a citation to the appropriate paper(s):
 
-> NA now.
+>Zhang, Z., Shang, X., Yang, L., Ai, W., Wang, J., Wang, H., Wong, S.T.C., Wang, X. and Li, H. (2023), Artificial Intelligence-Powered Acoustic Analysis System for Dysarthria Severity Assessment. Adv. Intell. Syst. 2300097. DOI: 10.1002/aisy.202300097.
