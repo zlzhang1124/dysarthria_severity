@@ -6,4 +6,4 @@ Since the data used in this study include naturalistic speech samples that can b
 
 If you use the code in your research, we would appreciate a citation to the appropriate paper(s):
 
->Zhang, Z., Shang, X., Yang, L., Ai, W., Wang, J., Wang, H., Wong, S.T.C., Wang, X. and Li, H. (2023), Artificial Intelligence-Powered Acoustic Analysis System for Dysarthria Severity Assessment. Adv. Intell. Syst. 2300097. DOI: 10.1002/aisy.202300097.
+> Zhang Z., Shang X., Yang L.-Z., Ai W., Wang J., Wang H., Wong S.T.C., Wang X., and Li H. Artificial Intelligence-Powered Acoustic Analysis System for Dysarthria Severity Assessment. Advanced Intelligent Systems. 2023, 2300097. DOI: 10.1002/aisy.202300097.
